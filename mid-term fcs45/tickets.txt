@@ -1,0 +1,5 @@
+tick101, ev003, alice, 20230802, 0
+tick102, ev002, bob, 20230803, 2
+tick103, ev004, charlie, 20230804, 1
+tick104, ev001, david, 20230805, 3
+tick105, ev002, emma, 20230806, 0
